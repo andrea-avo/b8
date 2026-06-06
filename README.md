@@ -9,4 +9,4 @@ Repository ini dibuat untuk memenuhi tugas Ujian Akhir Semester (UAS) mata kulia
 * **Alyssa Belinda LY** - 3337250173
 
 ## Deskripsi Projek
-Projek ini membahas tentang **Uji Hipotesis Ragam Dua Populasi (Uji F)** menggunakan Microsoft Excel. Pengujian ini dilakukan untuk mengetahui apakah dua populasi independen yang diamati memiliki varians (ragam) yang sama atau berbeda.
+Projek ini membahas tentang **Uji Hipotesis Ragam Dua Populasi (Uji F)** menggunakan Microsoft Excel. Pengujian ini dilakukan untuk menguji kebenaran hipotesis peneliti. Dalam penyelesaiannya, kami menggunakan dua metode berbeda berbasis Microsoft Excel untuk setiap butir soal.
